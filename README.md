@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Irfan
 - 👀 I’m interested in learning new things in journey to Full Stack Developer
-- 🌱 I’m currently learning DevOps Things
-- 💞️ I’m looking to collaborate on React/Node
+- 🌱 I’m currently Deep diving into JS and Database.
+- 💞️ I’m looking to collaborate on React/Node projects
 - 📫 You can drop a a message at link2mehar@gmail.com
 
 <!---
